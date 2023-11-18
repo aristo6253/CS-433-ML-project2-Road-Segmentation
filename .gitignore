@@ -1,2 +1,5 @@
-data/test_set_images
-data/training
+data/
+ml_env/
+__pycache__/
+predictions/
+

@@ -2,4 +2,3 @@ data/
 ml_env/
 __pycache__/
 predictions/
-models/
